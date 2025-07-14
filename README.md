@@ -21,28 +21,6 @@ A modern, responsive author profile page built with React and styled entirely us
 * **react-icons:** A library that provides popular icons as React components.
 * **CodeSandbox:** Online IDE for rapid web development.
 
-## Project Structure
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── ActionBar.jsx
-│   │   ├── ActivityFeed.jsx
-│   │   ├── ActivityFeedItem.jsx
-│   │   ├── CommentItem.jsx
-│   │   ├── FollowerAvatar.jsx
-│   │   ├── ProfileHeader.jsx
-│   │   ├── QuoteWidget.jsx
-│   │   ├── StoryCard.jsx
-│   │   └── TabButton.jsx
-│   ├── App.js
-│   ├── index.css
-│   └── main.jsx (or index.js, depending on your React setup)
-├── tailwind.config.js
-├── postcss.config.js
-├── package.json
-├── README.md
-└── ...other config files
-
 ## Setup and Installation (For Local Development)
 
 Although this project was developed using CodeSandbox, you can easily run it locally:
